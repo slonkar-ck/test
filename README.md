@@ -1,4 +1,7 @@
-test
-====
+Credit Karma for iOS
+====================
+Credit Karma iOS client application.
 
-Test
+Opening Up in XCode
+===================
+Pre-requisites 
